@@ -1,0 +1,6 @@
+C:\@MyData\Leo\Code\UDSecurity\Regex\Regex\bin\Debug\Regex.exe.config
+C:\@MyData\Leo\Code\UDSecurity\Regex\Regex\bin\Debug\Regex.exe
+C:\@MyData\Leo\Code\UDSecurity\Regex\Regex\bin\Debug\Regex.pdb
+C:\@MyData\Leo\Code\UDSecurity\Regex\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache
+C:\@MyData\Leo\Code\UDSecurity\Regex\Regex\obj\Debug\Regex.exe
+C:\@MyData\Leo\Code\UDSecurity\Regex\Regex\obj\Debug\Regex.pdb

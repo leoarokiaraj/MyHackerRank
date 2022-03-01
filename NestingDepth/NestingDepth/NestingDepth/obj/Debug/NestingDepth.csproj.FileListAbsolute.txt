@@ -1,0 +1,6 @@
+C:\@MyData\Leo\Code\NestingDepth\NestingDepth\NestingDepth\bin\Debug\NestingDepth.exe.config
+C:\@MyData\Leo\Code\NestingDepth\NestingDepth\NestingDepth\bin\Debug\NestingDepth.exe
+C:\@MyData\Leo\Code\NestingDepth\NestingDepth\NestingDepth\bin\Debug\NestingDepth.pdb
+C:\@MyData\Leo\Code\NestingDepth\NestingDepth\NestingDepth\obj\Debug\NestingDepth.csprojResolveAssemblyReference.cache
+C:\@MyData\Leo\Code\NestingDepth\NestingDepth\NestingDepth\obj\Debug\NestingDepth.exe
+C:\@MyData\Leo\Code\NestingDepth\NestingDepth\NestingDepth\obj\Debug\NestingDepth.pdb

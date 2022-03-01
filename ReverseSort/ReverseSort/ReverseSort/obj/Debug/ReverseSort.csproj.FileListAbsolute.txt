@@ -1,0 +1,6 @@
+C:\@MyData\Leo\Code\ReverseSort\ReverseSort\ReverseSort\bin\Debug\ReverseSort.exe.config
+C:\@MyData\Leo\Code\ReverseSort\ReverseSort\ReverseSort\bin\Debug\ReverseSort.exe
+C:\@MyData\Leo\Code\ReverseSort\ReverseSort\ReverseSort\bin\Debug\ReverseSort.pdb
+C:\@MyData\Leo\Code\ReverseSort\ReverseSort\ReverseSort\obj\Debug\ReverseSort.exe
+C:\@MyData\Leo\Code\ReverseSort\ReverseSort\ReverseSort\obj\Debug\ReverseSort.pdb
+C:\@MyData\Leo\Code\ReverseSort\ReverseSort\ReverseSort\obj\Debug\ReverseSort.csprojResolveAssemblyReference.cache
