@@ -1,0 +1,15 @@
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\bin\Debug\net6.0\EfficientJanator.exe
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\bin\Debug\net6.0\EfficientJanator.deps.json
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\bin\Debug\net6.0\EfficientJanator.runtimeconfig.json
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\bin\Debug\net6.0\EfficientJanator.dll
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\bin\Debug\net6.0\ref\EfficientJanator.dll
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\bin\Debug\net6.0\EfficientJanator.pdb
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.csproj.AssemblyReference.cache
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.AssemblyInfoInputs.cache
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.AssemblyInfo.cs
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.csproj.CoreCompileInputs.cache
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.dll
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\ref\EfficientJanator.dll
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.pdb
+C:\@MyData\Leo\Code\HackerRank\EfficientJanator\EfficientJanator\obj\Debug\net6.0\EfficientJanator.genruntimeconfig.cache

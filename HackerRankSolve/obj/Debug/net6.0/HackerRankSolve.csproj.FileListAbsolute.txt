@@ -1,0 +1,14 @@
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.AssemblyInfoInputs.cache
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.AssemblyInfo.cs
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.csproj.CoreCompileInputs.cache
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\bin\Debug\net6.0\HackerRankSolve.exe
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\bin\Debug\net6.0\HackerRankSolve.deps.json
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\bin\Debug\net6.0\HackerRankSolve.runtimeconfig.json
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\bin\Debug\net6.0\HackerRankSolve.dll
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\bin\Debug\net6.0\ref\HackerRankSolve.dll
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\bin\Debug\net6.0\HackerRankSolve.pdb
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.dll
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\ref\HackerRankSolve.dll
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.pdb
+C:\@MyData\Leo\Code\HackerRank\HackerRankSolve\obj\Debug\net6.0\HackerRankSolve.genruntimeconfig.cache
